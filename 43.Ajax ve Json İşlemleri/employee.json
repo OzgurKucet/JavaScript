@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ozgur Kucet",
+    "department": "Bilişim",
+    "salary": 3500
+  },
+
+  {
+    "name": "Mustafa Murat Coşkun",
+    "department": "Bilişim",
+    "salary": 3900
+  },
+
+  {
+    "name": "Serhat tat",
+    "department": "Pazarlama",
+    "salary": 4200
+  }
+
+]
